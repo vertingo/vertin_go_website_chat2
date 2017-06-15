@@ -41,7 +41,7 @@ Then run the following commands in your project directory via a command prompt (
 git init
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/vertingo/vertin_go_website_chat.git
+git remote add origin https://github.com/[Git_Name_Account]/[Git_Project_Name].git
 git push -u original master
 ```
 If you encounter this kind of error: fatal: refusing to merge unrelated stories
