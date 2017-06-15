@@ -51,12 +51,12 @@ Once your project uploads into your git repository you connect to EvenNode (http
 And create your EvenNode account for free to deploy your application on the web!
 Then create a new application by clicking the create new app button!
 
--Downloaded now putty: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
--Click on the generate button
--Move your mouse over PuttyGen until your key is generated
--Click on the menu Conversion -> Export OpenSSH key
--Saved your private key in the following directory: C: \ Users \ your_username \ .ssh \ id_rsa
--Copy your public key to your EvenNode account in the manage Puclic Key menu
+- Downloaded now putty: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+- Click on the generate button
+- Move your mouse over PuttyGen until your key is generated
+- Click on the menu Conversion -> Export OpenSSH key
+- Saved your private key in the following directory: C: \ Users \ your_username \ .ssh \ id_rsa
+- Copy your public key to your EvenNode account in the manage Puclic Key menu
 
 Go back to your root folder of your project and execute the following command line:
 
