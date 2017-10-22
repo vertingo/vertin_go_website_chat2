@@ -33,7 +33,7 @@ The application is now accessible to the url ** http: // localhost: 3000 / **.
 
 ## Deployed your application via Git on EvenNode.com (https://admin.evennode.com/login?continue=http%3A%2F%2Fadmin.evennode.com%2Fa%2Flist)
 If you do not have an account git create your account at the following URL: https://github.com/business?utm_source=google&utm_medium=cpc&utm_term=git&utm_campaign=2018q1-adv-EMEA|NB|Git|FR|EN|EX|20160906
-Downloaded and installed also git locally so you can run the commands below! ==> https://git-scm.com/download/win
+Download and install also git locally so you can run the commands below! ==> https://git-scm.com/download/win
 
 Then run the following commands in your project directory via a command prompt (Right Click + Shift ==> Open Command Prompt!) to instantiate a local git repository:
 
@@ -51,17 +51,17 @@ Once your project uploads into your git repository you connect to EvenNode (http
 And create your EvenNode account for free to deploy your application on the web!
 Then create a new application by clicking the create new app button!
 
-- Downloaded now putty: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+- Download now putty: https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 - Click on the generate button
 - Move your mouse over PuttyGen until your key is generated
 - Click on the menu Conversion -> Export OpenSSH key
-- Saved your private key in the following directory: C: \ Users \ your_username \ .ssh \ id_rsa
+- Saved your private key in the following directory: C:\Users\your_username\.ssh\id_rsa
 - Copy your public key to your EvenNode account in the manage Puclic Key menu
 
 Go back to your root folder of your project and execute the following command line:
 
 For this command you must replace the part your_app_here with your git directory key to your EvenNode account
-For example, the part between the hook (do not include the hook) in the following example: git@git.evennode.com: [b3d71189e8e580bb1944b02145721033.git]
+For example, the part between the hook (don't include the hook) in the following example: git@git.evennode.com: [b3d71189e8e580bb1944b02145721033.git]
 
 ```
 git remote add evennode git@git.evennode.com: your_app_here
