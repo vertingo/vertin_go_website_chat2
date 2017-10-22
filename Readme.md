@@ -32,7 +32,7 @@ Node server
 The application is now accessible to the url ** http: // localhost: 3000 / **.
 
 ## Deployed your application via Git on EvenNode.com (https://admin.evennode.com/login?continue=http%3A%2F%2Fadmin.evennode.com%2Fa%2Flist)
-If you do not have an account git create your account at the following URL: https://github.com/business?utm_source=google&utm_medium=cpc&utm_term=git&utm_campaign=2018q1-adv-EMEA|NB|Git|FR|EN|EX|20160906
+If you don't have an account git create your account at the following URL: https://github.com/business?utm_source=google&utm_medium=cpc&utm_term=git&utm_campaign=2018q1-adv-EMEA|NB|Git|FR|EN|EX|20160906
 Download and install also git locally so you can run the commands below! ==> https://git-scm.com/download/win
 
 Then run the following commands in your project directory via a command prompt (Right Click + Shift ==> Open Command Prompt!) to instantiate a local git repository:
