@@ -1,4 +1,4 @@
-
+![Image](https://raw.githubusercontent.com/vertingo/Easy_Admin_YouTube_Newsletter_Firebase/master/web/assets/images/github/vertin_go_website.jpg)
 # 🌐 Socket.IO Chat
 
 A simple chat demo to demonstrate WebSockets support on www.evennode.com Node.js hosting platform.
