@@ -3,7 +3,7 @@
 
 A simple chat demo to demonstrate WebSockets support on www.evennode.com Node.js hosting platform.
 
-## How to use
+## 🌐 How to use
 
 ```
 $ cd socket.io-chat-example
@@ -14,7 +14,7 @@ $ node .
 And point your browser to `http://localhost:3000`. Optionally specify
 a port by supplying the `PORT` env variable.
 
-## Features
+## 🌐 Features
 
 - Multiple users can join a chat room by entering a unique username
 on website load.
@@ -79,6 +79,6 @@ A little boost follow us on YouTube and Facebook!
   <a href="https://www.youtube.com/channel/UC2g_-ipVjit6ZlACPWG4JvA?sub_confirmation=1"><img src="https://platform-media.herokuapp.com/assets/images/reseaux-sociaux/youtube2.png" width="400" height="250"/></a>
   <a href="https://www.facebook.com/vertingo/"><img src="https://platform-media.herokuapp.com/assets/images/reseaux-sociaux/rejoins_nous.png" width="400" height="250"/></a>
 </p>
-## License
+## 🌐 License
 
 MIT
